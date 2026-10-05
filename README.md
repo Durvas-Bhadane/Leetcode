@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Durvas-Bhadane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Durvas-Bhadane/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Durvas-Bhadane/Leetcode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/Durvas-Bhadane/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
